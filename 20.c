@@ -8,7 +8,7 @@ void BaraPa();
 
 /*
  * Estructuras de codigo (funciones)
- * Menu de conversion de sistema de medidas (inverso)
+ * Menu de conversion de presiones
  */
 int main(int argc, char** argv) {
     int opcion;
