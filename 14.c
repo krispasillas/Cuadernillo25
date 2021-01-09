@@ -3,7 +3,7 @@
 
 /*
  * Estructuras de Almacenamiento (arreglos)
- * Ordenar datos tanto negativos como positivos de mayor a menor
+ * Ordenar datos tanto negativos como positivos de menor a mayor
  */
 int main(int argc, char** argv) {
     
